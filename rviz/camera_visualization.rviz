@@ -1,0 +1,21 @@
+rviz:
+  GlobalStatus: ''
+  Tools: []
+  Displays:
+    -
+      Name: Image
+      Enabled: true
+      Type: 'rviz2/ImageView'
+      Topic: '/camera/image_raw'
+      QueueSize: 1
+      Compression: 'compressed'
+      TransportHint: ''
+      Visibility: true
+      Alpha: 1
+      DrawBehind: false
+      PanelDocked: 0
+      Panels: {}
+      LockOrientation: false
+      Ogre: {}
+      UpdateTopic: ''
+      TfFrame: ''
